@@ -14,7 +14,9 @@ const Example = reactCreateClass({
   },
 
   seek() {
-    this.dp.seek(10)
+    this.dp.switchVideo({
+      url: 'http://202.119.245.12:8080/2019-12-23/想见你/10.mp4',
+    }, null, 10);
   },
 
   play() {

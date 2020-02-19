@@ -3567,10 +3567,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-mars-dplayer@1.3.0:
-  version "1.3.0"
-  resolved "https://registry.npm.taobao.org/mars-dplayer/download/mars-dplayer-1.3.0.tgz#968716b73168a7dee58e56032b6d60e811f89cf0"
-  integrity sha1-locWtzFop97ljlYDK21g6BH4nPA=
+mars-dplayer@1.4.0:
+  version "1.4.0"
+  resolved "https://registry.npm.taobao.org/mars-dplayer/download/mars-dplayer-1.4.0.tgz?cache=0&sync_timestamp=1582141120330&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fmars-dplayer%2Fdownload%2Fmars-dplayer-1.4.0.tgz#939ddb16868a6b4d615f9cee8644b3b36614c1df"
+  integrity sha1-k53bFoaKa01hX5zuhkSzs2YUwd8=
   dependencies:
     axios "0.19.0"
     balloon-css "^1.0.3"

@@ -1,6 +1,6 @@
 {
   "name": "online-react-dplayer",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "description": "online react player",
   "main": "lib/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/hnsylitao/react-dplayer#readme",
   "dependencies": {
     "classnames": "^2.2.6",
-    "mars-dplayer": "1.3.0",
+    "mars-dplayer": "1.4.0",
     "omit.js": "^1.0.2",
     "prop-types": "^15.6.2"
   },

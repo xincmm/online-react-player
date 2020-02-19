@@ -27,7 +27,6 @@ const Example = reactCreateClass({
 
   onLoad(dp) {
     this.dp = dp;
-    console.log(dp, dp.video);
     this.dp.on('episode_change', currentIndex => {
       console.log(currentIndex)
     })

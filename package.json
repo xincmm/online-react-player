@@ -26,7 +26,7 @@
   "homepage": "https://github.com/hnsylitao/react-dplayer#readme",
   "dependencies": {
     "classnames": "^2.2.6",
-    "mars-dplayer": "1.9.0",
+    "mars-dplayer": "2.0.0",
     "omit.js": "^1.0.2",
     "prop-types": "^15.6.2"
   },
